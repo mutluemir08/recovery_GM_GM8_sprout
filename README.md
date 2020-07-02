@@ -6,5 +6,5 @@ General Mobile GM 8 & GM 8 d Recovery kaynağı
  
  yanikyigit tarafından hazırlanmıştır.
  
- GM 8 Kullanıcıları Telegram grubu : t.me/gm8_kullanicilari
- GM 8 Releases Telegram kanalı : t.me/gm8releases
+* GM 8 Kullanıcıları Telegram grubu : t.me/gm8_kullanicilari
+* GM 8 Releases Telegram kanalı : t.me/gm8releases
