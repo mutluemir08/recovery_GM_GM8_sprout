@@ -2,6 +2,8 @@ General Mobile GM 8 & GM 8 d Recovery kaynağı
 
  * Aralık 2019 stock romu için derleme almak istiyorsanız dec-9.0 branchını kullanın
  * Kasım 2019 stock romu için derleme almak istiyorsanız nov-9.0 branchını kullanın
+ * Kasım 2020 Dual stock romu için derleme almak istiyorsanız nov-9.0(2020) branchını kullanın
+ * Kasım 2020 Single stock romu için derleme almak istiyorsanız nov-9.0(2020-s) branchını kullanın
  * PixelExperience Plus 9 20200406 için derleme almak istiyorsanız pex-0406 branchını kullanın
  
  yanikyigit tarafından hazırlanmıştır.
